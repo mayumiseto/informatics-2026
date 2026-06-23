@@ -1,0 +1,9 @@
+﻿place,place_ja,latitude,longitude,region,memo
+Sapporo,札幌,43.0618,141.3545,Hokkaido,高緯度・寒冷な地点
+Sendai,仙台,38.2682,140.8694,Tohoku,東北地方の太平洋側
+Tokyo,東京,35.6895,139.6917,Kanto,関東地方の大都市
+Niigata,新潟,37.9161,139.0364,Chubu,日本海側の地点
+Nagano,長野,36.6486,138.1948,Chubu,内陸・標高が高めの地点
+Osaka,大阪,34.6937,135.5023,Kansai,西日本の大都市
+Fukuoka,福岡,33.5902,130.4017,Kyushu,九州北部の都市
+Naha,那覇,26.2124,127.6792,Okinawa,低緯度・亜熱帯の地点

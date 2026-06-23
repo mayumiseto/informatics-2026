@@ -1,1 +1,25 @@
+# macOS
 .DS_Store
+**/.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Student submission zip files
+09_practice_*.zip
+10_project_*.zip
+
+# Generated outputs for lecture 10
+10/project/output/*.csv
+10/project/figures/*.png
+
+# Keep empty folders
+!10/project/output/.gitkeep
+!10/project/figures/.gitkeep

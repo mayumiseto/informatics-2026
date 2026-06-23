@@ -1,0 +1,8 @@
+﻿column,label_ja,unit,aggregation_hint,memo
+temp_mean_c,日平均気温,degree C,mean,指定した月・年で平均値を計算しやすい。
+temp_max_c,日最高気温,degree C,mean or max,暑さの変化を見るときに使いやすい。
+temp_min_c,日最低気温,degree C,mean or min,冬や夜間の冷え込みを見るときに使いやすい。
+precip_mm,日降水量,mm/day,sum,月ごとの合計値を計算するとよい。年ごとのばらつきが大きい。
+wind_max_ms,最大風速,m/s,mean or max,台風や季節風の影響を考える発展課題に使える。
+sunshine_hours,日照時間,hours/day,mean or sum,季節性が見えやすい。Open-Meteoの秒単位データから時間に変換済み。
+shortwave_radiation_mj_m2,短波放射量,MJ/m2/day,mean or sum,日射の季節変化を見たい学生向け。
